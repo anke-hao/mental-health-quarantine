@@ -5,7 +5,7 @@ Four hackathon participants created an educational hack on mental health in quar
 ## GIF
 
 <img src = 'Mental_Health.gif' alt = 'Mental Health in Quarantine website'/>
-!["Mental Health in Quarantine"](Mental_Health.gif)
+![Mental Health in Quarantine](Mental_Health.gif)
 
 ## Website
 
