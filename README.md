@@ -4,7 +4,8 @@ We created an educational hack on mental health in quarantine to highlight the d
 
 ## GIF
 
-<img src='Mental_Health.gif' alt = 'Mental Health in Quarantine website'/>
+<img src = 'Mental_Health.gif' alt = 'Mental Health in Quarantine website'/>
+![Mental Health in Quarantine website](Mental_Health.gif)
 
 ## Website
 
